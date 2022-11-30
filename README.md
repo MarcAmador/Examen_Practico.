@@ -22,12 +22,12 @@ una **Bibiloteca** que tiene registros sobre sus libros, empleados, autores, pai
 y estudiantes. Dichas tablas contienen cierta relación entre sí y además todas exigen integridad referencial. <br>
 Se puede visualizar el uso del **_DDL (Data Definition Languaje) de SQL_** y el uso del tipo de Base de Datos **"InnoDB"**.<br>
 Algunas características y herramientas utilizadas en la creación de este proyecto son: <br>
-    - Servidor de base de datos <br>
-    - Servidor: _MySQL (127.0.0.1 via TCP/IP)_ <br>
-    - Tipo de servidor: _MySQL_ <br>
-    - Versión del servidor: _5.7.31 - MySQL Community Server (GPL)_ <br>
-    + **Usuario: root** <br>
-    + Conjunto de caracteres de la Base de Datos: **utf8_general_ci**
+- Servidor de base de datos <br>
+- Servidor: _MySQL (127.0.0.1 via TCP/IP)_ <br>
+- Tipo de servidor: _MySQL_ <br>
+- Versión del servidor: _5.7.31 - MySQL Community Server (GPL)_ <br>
++ **Usuario: root** <br>
++ Conjunto de caracteres de la Base de Datos: **utf8_general_ci**
 ## 🤖🤖 Tecnologías utilizadas 🤖🤖
 
 **_1.- Examen Práctico de Laboratorio II (Python) <br>_**
